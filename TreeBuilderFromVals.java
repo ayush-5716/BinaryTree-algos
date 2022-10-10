@@ -1,5 +1,6 @@
+/* TO CREATE BINARY TREE FROM ARRAY OF VALUES */
 /*
-Node is defined as -
+Node defination -
 static class Node{
         int val;
         Node left;
